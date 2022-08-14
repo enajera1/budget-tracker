@@ -9,6 +9,8 @@ You're able to clone this repo and install dependencies. The script used to star
 Initialize the starting balance using the 'Add Funds' button. One by one input your transaction name/type along with the dollar amount. Once those are filled out press either 'Add Funds' or 'Subtract Funds' depending on the type of transaction being carried out. And you will instantly see the total balance reflect whatever transaction. 
 
 Here's a screen shot of what the app looks like in use: 
+![image](https://user-images.githubusercontent.com/100968401/184556549-df7754ff-d26c-4dc8-9030-521837ddf83e.png)
+
 
 ## Questions
 Any questions or comments please feel free to reach out to me here on GitHub @ https://github.com/enajera1.
