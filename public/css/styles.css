@@ -1,6 +1,9 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 button, input {
